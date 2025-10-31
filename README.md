@@ -1,6 +1,6 @@
-## KongRocks
+## KongRocks-Dev - development/testing dependencies
 
-This repository serves as Kong Gateway's private Luarocks server.
+This repository serves as Kong Gateway's private Luarocks server *used for development / testing dependencies. For Kong "prod" dependencies, a separate internal repository is used.
 
 ### How to add a new Rock
 
